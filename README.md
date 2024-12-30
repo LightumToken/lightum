@@ -1,2 +1,24 @@
-# lightum
-Lightum (LI8): A professional Solana token designed for efficient DeFi operations. Features: 3B fixed supply, 6 decimals. Trade on Raydium &amp; Birdeye.  Contract: B52UiTwvdDKJ76BavcwL8ZwbyuDjUQAD6UA3Lt1GqZKN
+# Lightum (LI8)
+
+<img src="rounded_image.png" width="100" height="100">
+
+## Overview
+Lightum (LI8) is a professional Solana token designed for efficient DeFi operations.
+
+## Features
+- Fixed supply: 3B tokens
+- 6 decimals
+- Revoked mint authority
+- Transparent operations
+
+## Trading
+- [Trade on Raydium](https://raydium.io/swap/?inputMint=B52UiTwvdDKJ76BavcwL8ZwbyuDjUQAD6UA3Lt1GqZKN&outputMint=sol)
+- [View on Birdeye](https://www.birdeye.so/token/B52UiTwvdDKJ76BavcwL8ZwbyuDjUQAD6UA3Lt1GqZKN?chain=solana)
+
+## Social Media
+- [Telegram](https://web.telegram.org/k/#@Lightumtoken)
+- [Twitter](https://x.com/lightumtoken)
+
+## Token Information
+- Contract: B52UiTwvdDKJ76BavcwL8ZwbyuDjUQAD6UA3Lt1GqZKN
+- Network: Solana
