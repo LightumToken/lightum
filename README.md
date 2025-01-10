@@ -3,7 +3,7 @@
 <img src="rounded_image.png" width="100" height="100">
 
 ## Overview
-Lightum (LI8) is an AI agent meme token designed on Solana.
+Lightum (LI8) is the AI agentum token illuminating the cyber realm .Crafted on Solana, inspired by light
 
 ## Features
 - Fixed supply: 3B tokens
