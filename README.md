@@ -3,7 +3,7 @@
 <img src="rounded_image.png" width="100" height="100">
 
 ## Overview
-Lightum (LI8) is a professional Solana token designed for efficient DeFi operations.
+Lightum (LI8) is an AI agent meme token designed on Solana.
 
 ## Features
 - Fixed supply: 3B tokens
